@@ -1,0 +1,10 @@
+
+path: D:/Ular/Documents/AEROX-AI/datasets/aerox_rescue
+
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: person
+

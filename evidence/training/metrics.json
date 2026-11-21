@@ -1,0 +1,29 @@
+{
+  "RESCUE": {
+    "metric": "metrics/mAP50(B)",
+    "peak_logged_value": 0.38458,
+    "epoch": 30,
+    "final_logged_value": 0.38458,
+    "epochs_logged": 30,
+    "matches_run_best": true,
+    "checkpoint_sha256": "022ae34f149d4ee6f1c6f1f511e4942a2bf98bed58875a305775285da86456c7"
+  },
+  "SOLAR": {
+    "metric": "metrics/accuracy_top1",
+    "peak_logged_value": 0.98,
+    "epoch": 15,
+    "final_logged_value": 0.97818,
+    "epochs_logged": 30,
+    "matches_run_best": true,
+    "checkpoint_sha256": "297268d8d3bc107ff934b9b4fd0a43d893517d4c0c9746fa1f9bbee0c2b867e3"
+  },
+  "FIRE": {
+    "metric": "metrics/accuracy_top1",
+    "peak_logged_value": 0.98889,
+    "epoch": 28,
+    "final_logged_value": 0.98858,
+    "epochs_logged": 30,
+    "matches_run_best": true,
+    "checkpoint_sha256": "83b4d5975ad03c24a40dfbe2e680e6af0a6d90d261a322d3e60d9ff946cb8ca1"
+  }
+}

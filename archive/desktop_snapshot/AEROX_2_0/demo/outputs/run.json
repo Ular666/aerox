@@ -1,0 +1,29 @@
+{
+  "auto": {
+    "compute": "GPU",
+    "frames": 12,
+    "peak": 51,
+    "detections": 348,
+    "evidence_frames": 12,
+    "elapsed_seconds": 2.91,
+    "fallback": null
+  },
+  "cpu": {
+    "compute": "CPU",
+    "frames": 12,
+    "peak": 51,
+    "detections": 348,
+    "evidence_frames": 12,
+    "elapsed_seconds": 0.48,
+    "fallback": null
+  },
+  "agri": {
+    "coverage_percent": 53.125,
+    "regions": 16,
+    "review_cells": [
+      "C3",
+      "D2",
+      "C2"
+    ]
+  }
+}
